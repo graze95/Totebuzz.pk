@@ -58,6 +58,13 @@ html{
 	text-align: center;
 	margin: 30px 0;
 }
+.delivery h1{
+	color: #635dda ;
+	
+}
+.delivery p{
+	font-size: 1.2em;
+}
 .hero-1 h1{
 	font-size: ;
 	margin-bottom:10px;
