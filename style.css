@@ -54,16 +54,11 @@ html{
 	height: 80vh;
 
 }
-.delivery{
-	text-align: center;
-	margin: 30px 0;
-}
-.delivery h1{
-	color: #635dda ;
-	
-}
-.delivery p{
-	font-size: 1.2em;
+.deliver{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 700 ;
 }
 .hero-1 h1{
 	font-size: ;
