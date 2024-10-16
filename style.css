@@ -54,12 +54,7 @@ html{
 	height: 80vh;
 
 }
-.deliver img{
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	width: 190px ;
-}
+
 .hero-1 h1{
 	font-size: ;
 	margin-bottom:10px;
